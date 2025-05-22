@@ -2,3 +2,5 @@ streamlit
 faiss-cpu
 sentence-transformers
 numpy
+google-auth
+google-api-python-client
