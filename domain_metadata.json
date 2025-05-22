@@ -1,0 +1,668 @@
+{
+  "0": {
+    "partner": "Ituran",
+    "category": "Uncategorized",
+    "text": "Vehicle Telematics\n Technologies for real-time vehicle tracking, diagnostics, driver behavior monitoring, and location-based services.",
+    "source_type": "domain"
+  },
+  "1": {
+    "partner": "Ituran",
+    "category": "Uncategorized",
+    "text": "Infotainment Technologies\n In-car entertainment, connectivity, and user interface innovations for improved driver and passenger experience.",
+    "source_type": "domain"
+  },
+  "2": {
+    "partner": "Ituran",
+    "category": "Uncategorized",
+    "text": "Fleet Management Solutions\n Platforms and tools that support operational efficiency, route optimization, maintenance, and vehicle tracking at scale.",
+    "source_type": "domain"
+  },
+  "3": {
+    "partner": "Ituran",
+    "category": "Uncategorized",
+    "text": "Logistics & Last-Mile Technologies\n Smart solutions for delivery logistics, routing, and optimization \u2014 with a focus on first/last-mile challenges.",
+    "source_type": "domain"
+  },
+  "4": {
+    "partner": "Ituran",
+    "category": "Uncategorized",
+    "text": "Insurance Technologies (InsurTech)\n Usage-based insurance, risk modeling, and connected vehicle data applications in insurance innovation.",
+    "source_type": "domain"
+  },
+  "5": {
+    "partner": "Ituran",
+    "category": "Uncategorized",
+    "text": "Vehicle Safety Technologies\n Advanced safety systems, including collision prevention, driver assistance, and situational awareness enhancements.",
+    "source_type": "domain"
+  },
+  "6": {
+    "partner": "Ituran",
+    "category": "Uncategorized",
+    "text": "Electrification\n Technologies supporting the shift to electric vehicles, particularly in areas related to charging infrastructure and energy optimization.",
+    "source_type": "domain"
+  },
+  "7": {
+    "partner": "Ituran",
+    "category": "Uncategorized",
+    "text": "Third-Party Telematics Integration\n Opportunities and platforms that enable external developers or partners to build and deploy services on top of telematics data infrastructure.",
+    "source_type": "domain"
+  },
+  "8": {
+    "partner": "John Deere",
+    "category": "Uncategorized",
+    "text": "Cybersecurity for Connected Vehicles and Machines (Lower Priority)\n Interest in startups securing automotive or industrial systems.\n Example benchmark: Upstream Security.",
+    "source_type": "domain"
+  },
+  "9": {
+    "partner": "John Deere",
+    "category": "Uncategorized",
+    "text": "Lifecycle Management Systems (High Priority)\n Technologies that support full-cycle customer engagement \u2014 from purchase through upgrades, performance monitoring, and service (\"cradle to grave\").",
+    "source_type": "domain"
+  },
+  "10": {
+    "partner": "John Deere",
+    "category": "Uncategorized",
+    "text": "Predictive Machine Health & Maintenance (High Priority)\n Advanced sensing (vibration, acoustics, fluid analysis, etc.) combined with intelligent data processing to detect early machine faults and performance degradation.",
+    "source_type": "domain"
+  },
+  "11": {
+    "partner": "John Deere",
+    "category": "Uncategorized",
+    "text": "Manufacturing Process Insights & Quality Control (Lower Priority)\n Startups that offer advanced manufacturing optimization tools, including real-time quality assurance and production analytics.",
+    "source_type": "domain"
+  },
+  "12": {
+    "partner": "John Deere",
+    "category": "Uncategorized",
+    "text": "Autonomous System Development Tools (High Priority)\n \u201cPicks and shovels\u201d for autonomy: simulation platforms, virtual validation tools, synthetic data generation, and AI for autonomous decision-making.",
+    "source_type": "domain"
+  },
+  "13": {
+    "partner": "John Deere",
+    "category": "Uncategorized",
+    "text": "Low-Cost Connectivity in GNSS-Denied Environments (Medium\u2013High Priority)\n Innovative sensing or connectivity technologies enabling operations where GPS fails \u2014 e.g., under tree canopy in vineyards or orchards.",
+    "source_type": "domain"
+  },
+  "14": {
+    "partner": "John Deere",
+    "category": "Uncategorized",
+    "text": "Unique Low-Cost Sensor Technologies for Environmental Perception (High Priority)\n New sensing modalities for soil, crop, field boundary, and machine status awareness \u2014 to drive operational efficiency and sustainability for farmers.",
+    "source_type": "domain"
+  },
+  "15": {
+    "partner": "Afifi",
+    "category": "Uncategorized",
+    "text": "Mobility as a Service (MaaS)\n Technologies and platforms that deliver transportation as an integrated service.",
+    "source_type": "domain"
+  },
+  "16": {
+    "partner": "Afifi",
+    "category": "Uncategorized",
+    "text": "Telematics Systems\n Example systems: THOREB and Traffilog. Used for remote monitoring, diagnostics, and real-time fleet data tracking.",
+    "source_type": "domain"
+  },
+  "17": {
+    "partner": "Afifi",
+    "category": "Uncategorized",
+    "text": "Electric Ecosystem Optimization\n Includes EV charging management, battery optimization, and other electric system improvements.",
+    "source_type": "domain"
+  },
+  "18": {
+    "partner": "Afifi",
+    "category": "Uncategorized",
+    "text": "Garage Operations\n Preventive maintenance, employee productivity, full timeline tracking of a bus's stay (entry to exit), and data accessibility/analytics.",
+    "source_type": "domain"
+  },
+  "19": {
+    "partner": "Afifi",
+    "category": "Uncategorized",
+    "text": "Trip Optimization (Not Limited to Public Transit)\n Algorithms or platforms that improve travel efficiency beyond just public transportation.",
+    "source_type": "domain"
+  },
+  "20": {
+    "partner": "Afifi",
+    "category": "Uncategorized",
+    "text": "Transportation-Specific CRM\n CRM systems for transportation orgs, supporting safety officers, HR, and more.",
+    "source_type": "domain"
+  },
+  "21": {
+    "partner": "Afifi",
+    "category": "Uncategorized",
+    "text": "Ridership Promotion\n Customer-focused initiatives and technologies to increase public transport usage.",
+    "source_type": "domain"
+  },
+  "22": {
+    "partner": "Afifi",
+    "category": "Uncategorized",
+    "text": "V2X \u2013 Vehicle-to-Everything Communication\n Real-time wireless data exchange between vehicles and infrastructure, tied to smart city tech.",
+    "source_type": "domain"
+  },
+  "23": {
+    "partner": "Afifi",
+    "category": "Uncategorized",
+    "text": "IoT Solutions for Transportation\n Covers ticketing, fleet management, user identification, and big data applications.",
+    "source_type": "domain"
+  },
+  "24": {
+    "partner": "Afifi",
+    "category": "Uncategorized",
+    "text": "Garage Digitalization and Workflow Automation\n Tech to automate and digitize work processes in garages, including queue management.",
+    "source_type": "domain"
+  },
+  "25": {
+    "partner": "Afifi",
+    "category": "Uncategorized",
+    "text": "Power Outage Protection\n Solutions that protect sensitive tech (e.g., ISR controllers) from electrical disruptions.",
+    "source_type": "domain"
+  },
+  "26": {
+    "partner": "Afifi",
+    "category": "Uncategorized",
+    "text": "Cybersecurity for Onboard Systems\n Cyber protection for ticketing machines, controllers, and other bus tech.",
+    "source_type": "domain"
+  },
+  "27": {
+    "partner": "Afifi",
+    "category": "Uncategorized",
+    "text": "GPS Signal Retention\n Preventing or mitigating the loss of GPS signals in buses.",
+    "source_type": "domain"
+  },
+  "28": {
+    "partner": "Afifi",
+    "category": "Uncategorized",
+    "text": "Bus Accident Detection & Attribution\n Systems that detect accidents and determine driver responsibility.",
+    "source_type": "domain"
+  },
+  "29": {
+    "partner": "Afifi",
+    "category": "Uncategorized",
+    "text": "EV Energy Monitoring\n Tools to measure and manage electricity usage in electric buses.",
+    "source_type": "domain"
+  },
+  "30": {
+    "partner": "Afifi",
+    "category": "Uncategorized",
+    "text": "Battery Life Extension\n Technologies aimed at prolonging the operational life of electric vehicle batteries.",
+    "source_type": "domain"
+  },
+  "31": {
+    "partner": "Afifi",
+    "category": "Uncategorized",
+    "text": "System Fault Detection and Alerting\n Identifying systemic faults in buses and issuing immediate alerts.",
+    "source_type": "domain"
+  },
+  "32": {
+    "partner": "Afifi",
+    "category": "Uncategorized",
+    "text": "Public Transport Line Optimization\n Tools and methods for optimizing the efficiency and planning of transit routes.",
+    "source_type": "domain"
+  },
+  "33": {
+    "partner": "Afifi",
+    "category": "Uncategorized",
+    "text": "Ticketing System Reliability\n Solutions for ticketing-related communication and hardware issues.",
+    "source_type": "domain"
+  },
+  "34": {
+    "partner": "Afifi",
+    "category": "Uncategorized",
+    "text": "Driver Behavior Monitoring\n Systems that evaluate and improve driving habits for safety and efficiency.",
+    "source_type": "domain"
+  },
+  "35": {
+    "partner": "Honda",
+    "category": "Uncategorized",
+    "text": "Vehicle & Battery Innovation (HGRX \u2013 Research Excellence)",
+    "source_type": "domain"
+  },
+  "36": {
+    "partner": "Honda",
+    "category": "Uncategorized",
+    "text": "Solid-State Batteries\n Development and application of next-generation solid-state battery technologies.",
+    "source_type": "domain"
+  },
+  "37": {
+    "partner": "Honda",
+    "category": "Uncategorized",
+    "text": "Battery Capacity & Production\n Improving energy density and scaling manufacturing of EV batteries.",
+    "source_type": "domain"
+  },
+  "38": {
+    "partner": "Honda",
+    "category": "Uncategorized",
+    "text": "EV Weight Reduction\n Technologies aimed at reducing vehicle weight to enhance efficiency and performance.",
+    "source_type": "domain"
+  },
+  "39": {
+    "partner": "Honda",
+    "category": "Uncategorized",
+    "text": "Mobility Resource Circulation\n Solutions promoting reuse and recycling in mobility systems; enabling circular economy in transportation.",
+    "source_type": "domain"
+  },
+  "40": {
+    "partner": "Honda",
+    "category": "Uncategorized",
+    "text": "Human-Machine Interface (HMI)\n Enhancing interaction between humans and vehicles; understanding human behavior to improve system design.",
+    "source_type": "domain"
+  },
+  "41": {
+    "partner": "Honda",
+    "category": "Uncategorized",
+    "text": "Automatic Production\n Advanced robotics and automation in vehicle manufacturing.\n Example startup: CIVAN Lasers.",
+    "source_type": "domain"
+  },
+  "42": {
+    "partner": "Honda",
+    "category": "Uncategorized",
+    "text": "Wireless Energy Transmission\n Wireless power technologies \u2014 from terrestrial to space-based systems.\n Example startup: Nt-Tao.",
+    "source_type": "domain"
+  },
+  "43": {
+    "partner": "Honda",
+    "category": "B. Power Unit & Energy (HGPU)",
+    "text": "Renewable Energy Generation & Usage\n Leveraging hydrogen and carbon-based energy carriers for clean power generation.\n Example startup: Nugen.",
+    "source_type": "domain"
+  },
+  "44": {
+    "partner": "Honda",
+    "category": "C.  Materials Research (HGMC)",
+    "text": "Advanced Power Materials\n High-frequency and high-voltage power materials for next-gen systems.",
+    "source_type": "domain"
+  },
+  "45": {
+    "partner": "Honda",
+    "category": "C.  Materials Research (HGMC)",
+    "text": "Thermal Management / Heat Sink\n Technologies that optimize thermal regulation in high-performance environments.",
+    "source_type": "domain"
+  },
+  "46": {
+    "partner": "Honda",
+    "category": "C.  Materials Research (HGMC)",
+    "text": "Logic Systems\n Novel SoC (System-on-Chip) designs, structures, and manufacturing processes.",
+    "source_type": "domain"
+  },
+  "47": {
+    "partner": "Honda",
+    "category": "C.  Materials Research (HGMC)",
+    "text": "Metal Magnets\n Materials innovation for efficient magnetic components, focusing on reduced mining and recyclability.\n Example startups: Fornax, Boson Energy.",
+    "source_type": "domain"
+  },
+  "48": {
+    "partner": "TotalEnergies",
+    "category": "Uncategorized",
+    "text": "Queue Management & Customer Experience (New \u2013 April 2025)\n Technologies to minimize queues at EV charging hubs, or to make waiting time more engaging and productive for drivers.",
+    "source_type": "domain"
+  },
+  "49": {
+    "partner": "TotalEnergies",
+    "category": "Uncategorized",
+    "text": "Cybersecurity for EV Charging Infrastructure\n Broad interest in cybersecurity \u2014 especially for charging stations, not vehicles. Includes software and network protection for EV hubs.",
+    "source_type": "domain"
+  },
+  "50": {
+    "partner": "TotalEnergies",
+    "category": "Uncategorized",
+    "text": "Plug and Charge (ISO 15118)\n Integration and optimization of the ISO 15118 plug-and-charge standard. Interest in using it to offer seamless, value-added services for EV drivers.",
+    "source_type": "domain"
+  },
+  "51": {
+    "partner": "TotalEnergies",
+    "category": "Uncategorized",
+    "text": "Smart Payment Solutions\n App-based and in-vehicle payment solutions for EV charging, especially from regions outside Europe (e.g., Asia). Focus on innovations that go beyond credit cards.",
+    "source_type": "domain"
+  },
+  "52": {
+    "partner": "TotalEnergies",
+    "category": "Uncategorized",
+    "text": "Predictive Maintenance for Chargers\n Systems that can forecast charger malfunctions or downtime to reduce onsite maintenance and improve uptime.",
+    "source_type": "domain"
+  },
+  "53": {
+    "partner": "TotalEnergies",
+    "category": "Uncategorized",
+    "text": "Dynamic Pricing for EV Charging\n Price optimization technologies that adjust charging rates based on time of day, demand, or external conditions.",
+    "source_type": "domain"
+  },
+  "54": {
+    "partner": "TotalEnergies",
+    "category": "Uncategorized",
+    "text": "Electricity Storage at Charging Hubs\n Grid-independent power storage solutions for high-demand sites, plus additional services enabled by onsite energy storage.",
+    "source_type": "domain"
+  },
+  "55": {
+    "partner": "TotalEnergies",
+    "category": "Uncategorized",
+    "text": "Battery Life & State of Health (SOH) Optimization\n Tools that help customers charge efficiently, reduce battery degradation, and understand their battery health status.",
+    "source_type": "domain"
+  },
+  "56": {
+    "partner": "TotalEnergies",
+    "category": "Uncategorized",
+    "text": "Foresight & Disruptive Market Trends\n Open to disruptive technologies or market shifts that Drive TLV believes should be on their radar \u2014 broad and future-focused.",
+    "source_type": "domain"
+  },
+  "57": {
+    "partner": "Hertz",
+    "category": "Uncategorized",
+    "text": "Electrification Technologies\n Solutions that support the transition to electric vehicles, including drivetrain innovation, fleet electrification strategies, and energy efficiency improvements.",
+    "source_type": "domain"
+  },
+  "58": {
+    "partner": "Hertz",
+    "category": "Uncategorized",
+    "text": "Digital Customer Experience\n Tools and platforms that enhance the digital interaction of customers throughout the rental journey \u2014 including booking, onboarding, personalization, and self-service.",
+    "source_type": "domain"
+  },
+  "59": {
+    "partner": "Hertz",
+    "category": "Uncategorized",
+    "text": "EV Charging Solutions\n Technologies for deploying, optimizing, and managing EV charging infrastructure, especially at scale for fleet operations.",
+    "source_type": "domain"
+  },
+  "60": {
+    "partner": "Hertz",
+    "category": "Uncategorized",
+    "text": "Logistics Technology\n Smart solutions to improve vehicle logistics, fleet operations, routing, delivery, and turnaround management.",
+    "source_type": "domain"
+  },
+  "61": {
+    "partner": "Ayvens",
+    "category": "Uncategorized",
+    "text": "Gamification & Behavioral Nudging for Sustainable Mobility\n Platforms that influence user mobility behavior through gamification, loyalty programs, or nudging \u2014 with the goal of reducing CO\u2082 emissions.\n Example: Ummadum.\n Prioritize: Open to a wide variety of solutions in this space.",
+    "source_type": "domain"
+  },
+  "62": {
+    "partner": "Ayvens",
+    "category": "Uncategorized",
+    "text": "Bioethanol (E85) Solutions\n Startups working with or innovating around E85 (Bioethanol fuel).\n Note: No urgent need unless a highly visionary/outstanding solution is identified.\n Mentioned in context of existing work with StepOne.",
+    "source_type": "domain"
+  },
+  "63": {
+    "partner": "Ayvens",
+    "category": "Uncategorized",
+    "text": "Mitigating Electrification Impact on Leasers\n Solutions addressing negative side effects of fleet electrification for leasing customers.\n Example: Startups issuing voluntary carbon credits to support transition from Internal Combustion Engines (ICE) to Battery Electric Vehicles (BEV).",
+    "source_type": "domain"
+  },
+  "64": {
+    "partner": "Novelis",
+    "category": "Recycling & Circularity",
+    "text": "End-of-Life Recycling (Aluminum Focus)\n Technologies that enable recycling of post-manufacturing and post-consumer aluminum products.",
+    "source_type": "domain"
+  },
+  "65": {
+    "partner": "Novelis",
+    "category": "Recycling & Circularity",
+    "text": "Metal Recycling & Sorting Technology\n Advanced systems that separate aluminum from mixed materials using novel sorting techniques.",
+    "source_type": "domain"
+  },
+  "66": {
+    "partner": "Novelis",
+    "category": "Recycling & Circularity",
+    "text": "Metal Purification\n Processes that enhance the quality of recycled aluminum during the melt or recovery phase.",
+    "source_type": "domain"
+  },
+  "67": {
+    "partner": "Novelis",
+    "category": "Recycling & Circularity",
+    "text": "Beverage Packaging Recycling\n Solutions focused on recycling used aluminum beverage cans (UBCs).",
+    "source_type": "domain"
+  },
+  "68": {
+    "partner": "Novelis",
+    "category": "Recycling & Circularity",
+    "text": "Circularity Enablers\n Technologies that drive circular economy models \u2014 e.g., traceability, reuse, lifecycle optimization.",
+    "source_type": "domain"
+  },
+  "69": {
+    "partner": "Novelis",
+    "category": "Recycling & Circularity",
+    "text": "B. Aluminum Market Support & Material Innovation",
+    "source_type": "domain"
+  },
+  "70": {
+    "partner": "Novelis",
+    "category": "Recycling & Circularity",
+    "text": "Aluminum Stamping and Forming\n New approaches for forming flat-rolled aluminum into usable structures efficiently and sustainably.",
+    "source_type": "domain"
+  },
+  "71": {
+    "partner": "Novelis",
+    "category": "Recycling & Circularity",
+    "text": "Battery Enclosure Technology (Aluminum-Based)\n Innovations using aluminum in EV battery enclosures for thermal management, safety, and weight optimization.",
+    "source_type": "domain"
+  },
+  "72": {
+    "partner": "Novelis",
+    "category": "Recycling & Circularity",
+    "text": "Active Coatings\n Coatings that enhance surface properties of aluminum \u2014 such as corrosion resistance or conductivity.",
+    "source_type": "domain"
+  },
+  "73": {
+    "partner": "Novelis",
+    "category": "Recycling & Circularity",
+    "text": "Product Design for Recycling\n Designing aluminum-based products with recycling and material recovery in mind.",
+    "source_type": "domain"
+  },
+  "74": {
+    "partner": "Novelis",
+    "category": "C. Carbon Reduction & Sustainability",
+    "text": "Waste Heat Utilization\n Energy recovery systems that convert process heat into usable power or reduce emissions.",
+    "source_type": "domain"
+  },
+  "75": {
+    "partner": "Novelis",
+    "category": "C. Carbon Reduction & Sustainability",
+    "text": "Energy Management\n Technologies aimed at reducing industrial energy consumption during production and processing.",
+    "source_type": "domain"
+  },
+  "76": {
+    "partner": "Novelis",
+    "category": "C. Carbon Reduction & Sustainability",
+    "text": "Advanced Renewables\n Renewable energy technologies supporting sustainable operations (excluding geothermal; solar and wind preferred).",
+    "source_type": "domain"
+  },
+  "77": {
+    "partner": "NXP",
+    "category": "Uncategorized",
+    "text": "Autonomous Driving & Radar Systems\n Technologies that enable autonomous vehicle perception, decision-making, and control, including radar-based sensing solutions.",
+    "source_type": "domain"
+  },
+  "78": {
+    "partner": "NXP",
+    "category": "Uncategorized",
+    "text": "Autonomous Mobile Robots (AMRs)\n Platforms or components supporting robotic autonomy in industrial, logistics, or mobility environments.",
+    "source_type": "domain"
+  },
+  "79": {
+    "partner": "NXP",
+    "category": "Uncategorized",
+    "text": "AI-Enabled Use Cases in Automotive (Beyond ADAS & IVI)\n Applications of AI in the vehicle that go beyond advanced driver assistance and infotainment \u2014 such as predictive maintenance, personalization, or in-cabin sensing.",
+    "source_type": "domain"
+  },
+  "80": {
+    "partner": "NXP",
+    "category": "Uncategorized",
+    "text": "Software-Defined Vehicle (SDV) Infrastructure\n Tools and technologies for in-vehicle data collection, data fusion, and compute architectures that enable SDV development.",
+    "source_type": "domain"
+  },
+  "81": {
+    "partner": "Goodyear",
+    "category": "Core Strategy:\n Goodyear Ventures is focused on identifying more sustainable materials for tires and better uses for end-of-life tires (ELTs). Their interest areas fall into four main categories:",
+    "text": "A. High-Value Reuse (Non-Tire & Construction Applications)",
+    "source_type": "domain"
+  },
+  "82": {
+    "partner": "Goodyear",
+    "category": "Core Strategy:\n Goodyear Ventures is focused on identifying more sustainable materials for tires and better uses for end-of-life tires (ELTs). Their interest areas fall into four main categories:",
+    "text": "High-Value Reuse (Non-Tire)\n Innovative uses for tire-derived or recycled materials in non-tire applications.",
+    "source_type": "domain"
+  },
+  "83": {
+    "partner": "Goodyear",
+    "category": "Core Strategy:\n Goodyear Ventures is focused on identifying more sustainable materials for tires and better uses for end-of-life tires (ELTs). Their interest areas fall into four main categories:",
+    "text": "High-Value Reuse in Construction\n Using end-of-life tire materials in construction-related applications.",
+    "source_type": "domain"
+  },
+  "84": {
+    "partner": "Goodyear",
+    "category": "B. Circular & Bio-Based Sourcing",
+    "text": "Circular Sources (Non-Tire)\n Solutions that contribute to a circular economy using non-tire feedstocks.",
+    "source_type": "domain"
+  },
+  "85": {
+    "partner": "Goodyear",
+    "category": "B. Circular & Bio-Based Sourcing",
+    "text": "Bio-Based Materials\n Broad interest in replacing petroleum-based inputs with renewable, biological alternatives.",
+    "source_type": "domain"
+  },
+  "86": {
+    "partner": "Goodyear",
+    "category": "B. Circular & Bio-Based Sourcing",
+    "text": "Soy Oil\n Use of soy-derived oil as a renewable rubber ingredient.",
+    "source_type": "domain"
+  },
+  "87": {
+    "partner": "Goodyear",
+    "category": "B. Circular & Bio-Based Sourcing",
+    "text": "Bio-Isoprene\n Sourcing isoprene from renewable biological processes.",
+    "source_type": "domain"
+  },
+  "88": {
+    "partner": "Goodyear",
+    "category": "Bio-Butadiene\n Renewable alternatives to petroleum-based butadiene.",
+    "text": "Methane-Derived Butadiene\n Converting methane into butadiene as a lower-impact synthetic route.",
+    "source_type": "domain"
+  },
+  "89": {
+    "partner": "Goodyear",
+    "category": "Bio-Butadiene\n Renewable alternatives to petroleum-based butadiene.",
+    "text": "Circular Butadiene (from Tire-Derived Naphtha)\n Extracting and reusing butadiene from processed end-of-life tires.",
+    "source_type": "domain"
+  },
+  "90": {
+    "partner": "Goodyear",
+    "category": "C. Advanced Recycling & Devulcanization",
+    "text": "Devulcanization Technologies\n Breaking down vulcanized rubber for reuse in new tire compounds.",
+    "source_type": "domain"
+  },
+  "91": {
+    "partner": "Goodyear",
+    "category": "C. Advanced Recycling & Devulcanization",
+    "text": "Plant Waste Rubber Recycling\n Recycling rubber sourced from agricultural or plant-based waste streams.",
+    "source_type": "domain"
+  },
+  "92": {
+    "partner": "Goodyear",
+    "category": "C. Advanced Recycling & Devulcanization",
+    "text": "Advanced Recovered Carbon Black (rCB)\n High-purity rCB solutions recovered from tire pyrolysis or other ELT recycling methods.",
+    "source_type": "domain"
+  },
+  "93": {
+    "partner": "Goodyear",
+    "category": "C. Advanced Recycling & Devulcanization",
+    "text": "ELT-Derived Circular Resins\n Polymers and resins created from chemically processed ELT materials.",
+    "source_type": "domain"
+  },
+  "94": {
+    "partner": "Goodyear",
+    "category": "D. Lower Carbon & CO\u2082-Based Technologies",
+    "text": "Lower Carbon Technologies (General)\n Startups with a carbon-reducing approach across the tire material value chain.",
+    "source_type": "domain"
+  },
+  "95": {
+    "partner": "Goodyear",
+    "category": "D. Lower Carbon & CO\u2082-Based Technologies",
+    "text": "Recycled PET\n Use of post-consumer polyethylene terephthalate (e.g., from plastic bottles) in tire materials.",
+    "source_type": "domain"
+  },
+  "96": {
+    "partner": "Goodyear",
+    "category": "D. Lower Carbon & CO\u2082-Based Technologies",
+    "text": "RHA Silica (Rice Husk Ash Silica)\n Silica produced from agricultural waste (rice husks), a lower-emission alternative.",
+    "source_type": "domain"
+  },
+  "97": {
+    "partner": "Goodyear",
+    "category": "D. Lower Carbon & CO\u2082-Based Technologies",
+    "text": "CO\u2082-Derived Carbon Black\n Producing carbon black from captured CO\u2082 instead of fossil fuels.",
+    "source_type": "domain"
+  },
+  "98": {
+    "partner": "Volvo Cars",
+    "category": "Uncategorized",
+    "text": "Fast Charging \u2013 Hardware & Software Solutions\n Innovations that enable faster, more efficient electric vehicle charging across hardware and software layers.",
+    "source_type": "domain"
+  },
+  "99": {
+    "partner": "Volvo Cars",
+    "category": "Uncategorized",
+    "text": "Power Electronics\n Circuit and system designs that improve energy conversion, distribution, and efficiency in EV propulsion systems.",
+    "source_type": "domain"
+  },
+  "100": {
+    "partner": "Volvo Cars",
+    "category": "Uncategorized",
+    "text": "Circularity in Propulsion & Energy\n Business models and technologies that promote reuse, recycling, and sustainable practices in propulsion and energy systems.",
+    "source_type": "domain"
+  },
+  "101": {
+    "partner": "Volvo Cars",
+    "category": "Uncategorized",
+    "text": "HVAC & Heat Pump Systems\n Efficient in-vehicle heating and cooling technologies, including heat pumps and thermal management systems.",
+    "source_type": "domain"
+  },
+  "102": {
+    "partner": "Volvo Cars",
+    "category": "Uncategorized",
+    "text": "In-Cabin Technologies (e.g., AR HUDs)\n Enhanced user experience systems such as Augmented Reality Heads-Up Displays (AR HUDs) and smart interior tech.",
+    "source_type": "domain"
+  },
+  "103": {
+    "partner": "Volvo Cars",
+    "category": "Uncategorized",
+    "text": "In-Car Payments & Parking Aggregators\n Digital services enabling seamless in-car transactions \u2014 including charging payments, tolls, parking, and more.",
+    "source_type": "domain"
+  },
+  "104": {
+    "partner": "Volvo Cars",
+    "category": "Uncategorized",
+    "text": "Smart Surface Materials\n Advanced materials with interactive or responsive properties, improving functionality or aesthetics inside and outside the car.",
+    "source_type": "domain"
+  },
+  "105": {
+    "partner": "Volvo Cars",
+    "category": "Uncategorized",
+    "text": "Generative AI for Automotive Applications\n Use of GenAI in design, personalization, driver interaction, or engineering automation within the automotive domain.",
+    "source_type": "domain"
+  },
+  "106": {
+    "partner": "Volvo Cars",
+    "category": "Uncategorized",
+    "text": "Semiconductor & Compute Technologies\n Innovations in SoC design, simulation, chip development, and cost-effective MCU architectures (e.g., RISC-V).",
+    "source_type": "domain"
+  },
+  "107": {
+    "partner": "Wheels - Domains of Interest_17dj5qTRBSn0H8JGDgSyjJQjDsnpvvDDS.docx",
+    "category": "Predictive Analytics",
+    "text": "Tools and models that forecast events or behaviors using data\u2014such as predicting maintenance needs, optimizing fleet usage, or anticipating road incidents.",
+    "source_type": "domain"
+  },
+  "108": {
+    "partner": "Wheels - Domains of Interest_17dj5qTRBSn0H8JGDgSyjJQjDsnpvvDDS.docx",
+    "category": "Digitization Solutions (Paperless Operations)",
+    "text": "Technologies that reduce or eliminate reliance on paper documentation\u2014for example, digital forms, electronic invoicing, or cloud-based workflow systems.",
+    "source_type": "domain"
+  },
+  "109": {
+    "partner": "Wheels - Domains of Interest_17dj5qTRBSn0H8JGDgSyjJQjDsnpvvDDS.docx",
+    "category": "Mobility Management Systems",
+    "text": "Solutions that help determine and manage the most efficient transportation option for a given scenario\u2014could include dynamic route selection, multimodal trip planning, or fleet dispatch optimization.",
+    "source_type": "domain"
+  },
+  "110": {
+    "partner": "Wheels - Domains of Interest_17dj5qTRBSn0H8JGDgSyjJQjDsnpvvDDS.docx",
+    "category": "Mobile Payment Solutions",
+    "text": "Unified platforms for vehicle-related payments such as fuel, EV charging, tolls, maintenance, accident repairs, and more. This includes controlled systems for collecting payments (e.g., traffic violations, insurance deductibles) or issuing them (e.g., driver reimbursements). There's a strong interest in consolidating currently fragmented payment tools.",
+    "source_type": "domain"
+  }
+}
